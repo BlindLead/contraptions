@@ -1,33 +1,27 @@
 # Wax Pen: A tool to enable production of raised lines using inexpensive parts and readily available crayons.
 
-## Characteristics
-* Creates a thin, well-defined line of wax on paper
-* A hand-held device which is comfortable to use and easy to manipulate. Current
-thinking is pen-shaped
-* The device is safe to use by children aged four and up.
-* Heat the end of the crayon to the point where the wax changes state to a
-liquid
-* Control heat so that only the end of the crayon is melted. This is not yet
-done
-* Control flow of melted wax through a small hole such that the melted wax
-hardens nearly immediately on contact with paper.
-* The wax flow and melting of wax is continuous only when the tip is moving on a
-surface
-* The line is well-defined and should not be easily removed from the paper
+## Goals
+* Create a thin, well-defined tactile  line on paper that is not easily removed or erased
+* A hand-held device which is comfortable to use and easy to manipulate. Current thinking is pen-shaped
+* The device should be safe to use by children aged four and up.
 
-## Prototype description
-### Bill of Materials
+## Method
+* Heat the end of the crayon to the point where the wax changes state to a liquid
+* Control heat so that only the end of the crayon is melted
+* Control flow of melted wax through a small hole such that the melted wax hardens nearly immediately on contact with paper.
+* The wax flow and melting of wax is continuous only when the tip is moving on a surface
+
+## Bill of Materials
 * 1 small oral syringe forms the body of the device
 * 1 crayon with paper removed
 * 1 length multi stranded copper wire, insulation removed twice the length of the
 syringe plus about 4 cm forms a heatsync to protect the resistor and a wick to
 deliver wax from the resistor to the paper
 
-### Electronic circuit
+## Electronic circuit
 * 1 3.3 ohm carbon film resistor 1/4 watt
 * 2 lengths of thin insulated wire 3 cm longer than the syringe
-* 1 4.2V 1200 Mah NiMH rechargeable battery from an electronic cigarette with
-on/off button
+* 1 4.2V 1200 Mah NiMH rechargeable battery from an electronic cigarette with on/off button
 * 1 momentary push button of the battery does not contain this button
 
 ## Assembly
