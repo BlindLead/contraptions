@@ -1,6 +1,6 @@
-#Wax Pen: A tool to enable production of raised lines using inexpensive parts and readily available crayons.
+# Wax Pen: A tool to enable production of raised lines using inexpensive parts and readily available crayons.
 
-##Characteristics
+## Characteristics
 * Creates a thin, well-defined line of wax on paper
 * A hand-held device which is comfortable to use and easy to manipulate. Current
 thinking is pen-shaped
